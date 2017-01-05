@@ -1,0 +1,10 @@
+# 我正在研究fork的同步协作功能
+我fork了https://github.com/AIMinder/Py103；
+我建了我的公开库：https://github.com/HerbertAChen/Py103
+在我的电脑上建立目录：C:\Users\bobo\Py103
+在我的GitBash进入c:\Users\bobo\Py103执行如下命令：
+git init
+git remote add origin https://github.com/HerbertAChen/Py103.git
+$ git clone  git git@github.com:HerbertAchen/Py103
+
+#我成功了吗？
